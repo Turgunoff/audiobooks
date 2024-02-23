@@ -8,8 +8,11 @@ Audiobook player
 Requirements:
 
 Audiobooks list
+
 Audiobook single
+
 Player controls (Play, pause, next, previous, shuffle, repeat all, repeat single)
+
 Apple Airplay support for iOS
 Playlist
 Reorder Playlist
